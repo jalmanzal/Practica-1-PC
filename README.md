@@ -5,4 +5,6 @@ Prueba de la otra forma de push
 
 Prueba antes de fusionar
 
-Conflicto inducido desde main
+Conflicto inducido desde pruebaCheckout
+
+y resuelto en main
