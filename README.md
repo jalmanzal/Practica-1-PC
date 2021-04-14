@@ -5,6 +5,4 @@ Prueba de la otra forma de push
 
 Prueba antes de fusionar
 
-Conflicto inducido desde pruebaCheckout
-
-y resuelto en main
+A inducir conflicto y resolverlo para cerrar la rama terceraRama y eliminarla desde CLI
